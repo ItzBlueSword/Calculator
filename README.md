@@ -1,7 +1,7 @@
 # Calculator
 Calculator in HTML, CSS and JavaScript.
 
-## Instruction
+## Instructions
 All buttons are working. <br />
 * Press ÷ to divide <br />
 * Press x to multiplier <br />
