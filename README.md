@@ -10,6 +10,7 @@ All buttons are working. <br />
 
 ## Programming Languages Used
 
+![HTML5](./assets/html.svg) ![CSS](./assets/css.svg) ![JAVASCRIPT](./assets/javascript.svg)
 
 ## License
 
